@@ -1,14 +1,14 @@
 import update from 'immutability-helper';
 
 /**
- * Get the list of todo items.
+ * Shu now Get the list of todo items.
  * @return {Array}
  */
 export function getAll() {
     return [
         {
             id: 1,
-            text: 'Learn Javascript',
+            text: 'Add Mr Shu name too ',
             completed: false
         },
         {
