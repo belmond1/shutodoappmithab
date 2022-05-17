@@ -1,18 +1,6 @@
-# React Todo App
+# shu belmond reactjs-todo-list
+This is a todo list created with reactjs from a youtube tutorial: https://youtu.be/iZ8RZqkZj14
 
-This is a sample react todo app done step-by-step.
+1 - run "npm install"
 
- 
-
- 
-```
- 
-$ npm install # or yarn
-```
-
-Run it
-```bash
-$ npm start # or yarn start
-```
- 
- 
+2 - run "npm start"
