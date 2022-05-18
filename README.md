@@ -1,6 +1,22 @@
-# shu belmond reactjs-todo-list
-This is a todo list created with reactjs from a youtube tutorial: https://youtu.be/iZ8RZqkZj14
+![React Todo App](./banner.png)
 
-1 - run "npm install"
+# React Todo App.
 
-2 - run "npm start"
+A complete todo application with all features.
+
+ 
+ 
+---
+
+In the project, we will be creating a Complete Todo Application with all features. We will do all the CRUD operations
+## Project Description
+. We will to use `React.js`  
+
+  
+ 
+
+## Requirements
+
+- Basic ReactJs knowledge
+- Basic HTML, CSS knowledge
+ 
